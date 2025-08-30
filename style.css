@@ -6,16 +6,17 @@ body{
 		margin-left: auto;
 		margin-right: auto;
 }
+
+
 /* Container for the links */
 .nav {
   display: flex;
-  justify-content: space-between; /* spreads links across width */
-  margin: 20px 0; /* optional spacing around the nav */
+  justify-content: space-between;
+  margin: 20px 0; 
 }
 
-/* Styling for the links */
 .nav a {
   text-decoration: none;
-  color: white;     /* matches your page text color */
+  color: white;
   font-weight: bold;
 }
